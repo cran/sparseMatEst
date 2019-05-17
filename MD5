@@ -1,0 +1,12 @@
+da97471dd269f3cfa14103da25f6407d *DESCRIPTION
+e28302fffbdcf8761a4187b4a9166aab *NAMESPACE
+fc896cb787e327c0ab10c11083cb5064 *R/sparseCov.R
+4a8616dd1e478a44eb1249f8c1c0ea6d *R/sparseMatEst.R
+1ea02b4c0017b2c0a8ac62c71831f506 *R/sparseMatGen.R
+5eb5ac5d0830b9fdf4bf6898f8b15e6f *R/sparseMatGenMethods.R
+bfa399e0a6ab18d7f63234dbcaab6de6 *R/sparseMatTools.R
+8da786d8101fe3128b045588aaa24809 *R/sparsePrec.R
+1b717b342db8280c178f113cdee4e525 *man/genSparseMatrix.Rd
+b3a998787f347e231589fa888c16cfe5 *man/sparseCov.Rd
+52362eb0111411041880ff7819e09648 *man/sparseMatEst-package.Rd
+2091112ead7ae9b87187de9e03e6e59b *man/sparsePrec.Rd
